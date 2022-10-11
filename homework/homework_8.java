@@ -14,7 +14,7 @@ if a person have credit between greater than 750==> print "<person First Name>  
 
         String name="Ahmet";
         String lastname= "Kahraman";
-        int creditscore=750;
+        int creditscore=950;
         if (creditscore<500){
             System.out.println(name+" "+lastname+" has Bad Credit Score");
         } else if (creditscore>=500&&creditscore<700) {
