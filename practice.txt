@@ -1,0 +1,8 @@
+1 Grooming/ Refinement meeting
+2 Sprint Planning Meeting 
+3 Daily StandUp Meeting 
+4 Demo meeting 
+5 Retro meeting 
+
+How often do you deploy?
+evevry 2 weeks -- and of the sprint -- it's up to 4 to 6 weeks
